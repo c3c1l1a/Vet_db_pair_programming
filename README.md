@@ -1,7 +1,6 @@
-# curriculum-databases-projects-template
+# PERFOMANCE AUDIT ON THE VET CLINIC DATABASE
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+> Used indexing to improve the perfomance of the vet_clinic database by reducing the execution time. 
 
 
 ## Getting Started
@@ -17,15 +16,17 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@c3c1l1a](https://github.com/c3c1l1a/)
+- Twitter: [@cMukima](https://twitter.com/CMukima)
+- LinkedIn: [cecilia-wangui-mukima](https://linkedin.com/in/linkedinhandle)
+- Profile [c3cl1ia.github.io](https://c3c1l1a.github.io)
+
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AbbyNyakara](https://github.com/AbbyNyakara)
+- Twitter: [@AbigaelNyakara](https://twitter.com/AbbyNyakara)
+- LinkedIn: [Abigael Nyakara](https://linkedin.com/in/AbbyNyakara)
 
 ## 🤝 Contributing
 
